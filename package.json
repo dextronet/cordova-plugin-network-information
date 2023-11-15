@@ -1,0 +1,13 @@
+{
+  "name": "cordova-plugin-network-information",
+  "version": "0.2.15",
+  "description": "Cordova Notification Plugin",
+  "cordova": {
+    "id": "cordova-plugin-network-information",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "repository": "github:dextronet/cordova-plugin-network-information"
+}
